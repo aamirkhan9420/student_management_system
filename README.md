@@ -1,5 +1,5 @@
 # student_management_system
-#The student management system manages the student's data and assignments and lectures as well it has two sections one for admin who can add and remove the student, lecture, and assignments.
+#The student management system manages the student's data and assignments and lectures as well it has two sections one for admin who can add and remove the student, lecture, and assignments another section for student who can see the lectures and assignments.
  it is a separate project created by me. 
  Created using HTML, CSS, JAVASCRIPT
 
